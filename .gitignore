@@ -1,0 +1,6 @@
+.vscode/
+bin/
+model_cache/
+obj/
+azure.settings.config
+log.txt
